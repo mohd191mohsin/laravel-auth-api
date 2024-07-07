@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /vendor/
 node_modules/
 npm-debug.log
@@ -22,7 +22,6 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
-=======
 /.phpunit.cache
 /node_modules
 /public/build
@@ -43,4 +42,3 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
->>>>>>> ef34715 (first commit)
